@@ -3,4 +3,4 @@ Medium Artcle link: https://medium.com/@ioannisprokopiou/analysis-of-twitter-dat
 
 This is a repository for the project : Analysis of Twitter Data with the help of Neo4j Graph Database and Python
 
-The WDM P1 T3.ipynb file contains the Python code we used for constructing the csv files from our twitter data 
+The WDM P1 T3.ipynb file contains the Python code we used for constructing the csv files from our twitter data (over 100 mb its not uploaded in this repository)
